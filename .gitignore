@@ -1,0 +1,6 @@
+.idea/
+.env/
+/whats_for_dinner/.env
+/whats_for_dinner/sub_agents/meal_prep_agent/.env
+/whats_for_dinner/sub_agents/nutrition_info_agent/.env
+/whats_for_dinner/sub_agents/recipe_search_agent/.env
